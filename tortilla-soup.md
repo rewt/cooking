@@ -20,6 +20,7 @@ A lighter, cozy take on the news clipping: **baked tortilla strips**, **low-sodi
 - 1 Tbsp avocado oil or extra-virgin olive oil
 - 1 lb organic boneless skinless chicken breast (or thighs)
 - 1 large yellow onion, chopped (about 2 cups)
+- **3 cloves garlic, minced** (or microplaned)
 - 3 medium Yukon Gold potatoes, diced (about 4–5 cups)
 - 6 cups organic **low-sodium** chicken broth  
   *(or 4 cups broth + 2 cups water for even less sodium)*
@@ -70,11 +71,12 @@ A lighter, cozy take on the news clipping: **baked tortilla strips**, **low-sodi
 
 ---
 
-### 3) Sauté onions, then simmer potatoes
+### 3) Sauté onions + garlic, then simmer potatoes
 1. Add chopped onion to the pot with the chicken.
 2. Cook **4–5 minutes** until softened.
-3. Add diced potatoes + broth.
-4. Bring to a boil, then reduce to a gentle simmer **10–12 minutes**, until potatoes are tender.
+3. Add **minced garlic** and cook **30–60 seconds** until fragrant (don’t brown it).
+4. Add diced potatoes + broth.
+5. Bring to a boil, then reduce to a gentle simmer **10–12 minutes**, until potatoes are tender.
 
 ---
 
