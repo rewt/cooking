@@ -51,6 +51,14 @@ This is a **half-batch test run** (~9 cookies) so you can dial in spread/bake ti
 
 ---
 
+## Before You Start
+- **Butter:** pull from the fridge ~30–45 min before you begin. Target 65–68°F — press-test with a fingertip: it should leave a dent that holds its shape, not sink in mushy or feel greasy/shiny. Butter that's too warm creams differently and leads to more spread later.
+- **Egg + egg yolk:** bring both to room temp too (~30 min out on the counter, or submerge the whole egg in warm water for 5–10 min if short on time). A cold egg dropped into creamed butter+sugar can make the mixture look broken/curdled, meaning uneven fat distribution before the flour goes in — this matters more here than in the wheat version, since the fat/moisture ratio in this recipe is already tuned tightly to fight dryness, and an uneven emulsion works against that.
+- **Everything else** (GF blend, sugars, leaveners, cornstarch, salt, vanilla, xanthan gum, M&M's) is temperature-neutral — pull straight from the pantry, no prep needed.
+- The dough goes the **opposite** direction once mixed: cold, not room temp — see the chill step in the method below (and note it's longer here than the wheat version).
+
+---
+
 ## Ingredients — Test Batch (~9 cookies)
 
 ### Dry

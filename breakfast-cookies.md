@@ -48,6 +48,14 @@ This is a **half-batch test run** (~9 cookies) so you can dial in spread/bake ti
 
 ---
 
+## Before You Start
+- **Butter:** pull from the fridge ~30–45 min before you begin. Target 65–68°F — press-test with a fingertip: it should leave a dent that holds its shape, not sink in mushy or feel greasy/shiny. Butter that's too warm creams differently and leads to more spread later, working against the "round not flat" goal.
+- **Egg:** bring to room temp too (~30 min out on the counter, or submerge whole/in-shell in warm water for 5–10 min if you're short on time). A cold egg dropped into creamed butter+sugar can make the mixture look broken/curdled, which means uneven fat distribution before the flour goes in.
+- **Everything else** (flour, sugars, leaveners, cornstarch, salt, vanilla, M&M's) is temperature-neutral — pull straight from the pantry, no prep needed.
+- The dough goes the **opposite** direction once mixed: cold, not room temp — see the chill step in the method below.
+
+---
+
 ## Ingredients — Test Batch (~9 cookies)
 
 ### Dry
