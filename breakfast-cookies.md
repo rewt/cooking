@@ -60,17 +60,17 @@ This is a **half-batch test run** (~9 cookies) so you can dial in spread/bake ti
 
 ### Dry
 - 160 g organic all-purpose flour
-- 4 g cornstarch
-- 1.5 g baking soda
-- 1 g baking powder
-- 2 g fine sea salt
+- 1½ tsp cornstarch
+- ⅓ tsp baking soda
+- ¼ tsp baking powder
+- ⅜ tsp fine sea salt
 
 ### Wet
 - 113 g organic unsalted butter, **softened but still cool** (press-and-hold-a-dent, not squishy)
 - 100 g organic light brown sugar, packed
 - 33 g organic cane sugar
 - 1 large organic egg (about 50 g)
-- 6 g organic vanilla extract
+- 1½ tsp organic vanilla extract
 
 ### Mix-in
 - 128 g mini M&M's (or 120 g regular, roughly chopped so they distribute better in a small dough ball)
@@ -118,7 +118,7 @@ Cut one open once fully cool and check:
 - **Too cakey / bread-like crumb** → next batch, cut baking powder to a pinch or drop it entirely, and confirm you didn't overmix step 4.
 - **Spread too flat** → chill longer (try 2 hr or overnight), confirm butter wasn't too soft going in, check your oven's actual temp with a thermometer (a cool oven = more spread time before setting).
 - **Too dry/crumbly in a bad way (not chewy)** → pull 1 minute earlier next time, and/or bump brown sugar up 12–25 g at the expense of cane sugar.
-- **Not chewy enough / too cakey-light** → this is almost always overmixed flour or too much leavener; also double-check baking soda measurement (1.5 g is small — easy to overpour).
+- **Not chewy enough / too cakey-light** → this is almost always overmixed flour or too much leavener; also double-check baking soda measurement (⅓ tsp is small — easy to overpour).
 - **Good** → note the exact bake time that worked in *your* oven and use it for the full batch.
 
 ---
@@ -126,14 +126,14 @@ Cut one open once fully cool and check:
 ## Full-batch conversion (once the test batch is dialed in)
 Multiply everything by **2.5×** for ~22–25 cookies:
 - 400 g flour
-- 10 g cornstarch
-- 4 g baking soda
-- 2.5 g baking powder
-- 5 g fine sea salt
+- 1 Tbsp + ½ tsp cornstarch
+- ¾ tsp baking soda
+- ½ tsp baking powder
+- 1 tsp fine sea salt
 - 283 g butter
 - 250 g brown sugar
 - 83 g cane sugar
-- 2 large eggs (about 100 g) + 13 g vanilla extract
+- 2 large eggs (about 100 g) + 1 Tbsp vanilla extract
 - 340 g mini M&M's
 
 Same method, same chill time — bake in batches so the dough balls stay cold going in.
