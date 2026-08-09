@@ -51,21 +51,21 @@ This is a **half-batch test run** (~9 cookies) so you can dial in spread/bake ti
 ## Ingredients — Test Batch (~9 cookies)
 
 ### Dry
-- 1¼ cups + 2 Tbsp (160 g) organic all-purpose flour
-- 1½ tsp cornstarch
-- ⅓ tsp baking soda
-- ¼ tsp baking powder
-- ⅜ tsp fine sea salt (a scant ½ tsp)
+- 160 g organic all-purpose flour
+- 4 g cornstarch
+- 1.5 g baking soda
+- 1 g baking powder
+- 2 g fine sea salt
 
 ### Wet
-- ½ cup (113 g) organic unsalted butter, **softened but still cool** (press-and-hold-a-dent, not squishy)
-- ½ cup (100 g) organic light brown sugar, packed
-- 3 Tbsp (33 g) organic cane sugar
-- 1 large organic egg
-- 1½ tsp organic vanilla extract
+- 113 g organic unsalted butter, **softened but still cool** (press-and-hold-a-dent, not squishy)
+- 100 g organic light brown sugar, packed
+- 33 g organic cane sugar
+- 1 large organic egg (about 50 g)
+- 6 g organic vanilla extract
 
 ### Mix-in
-- ¾ cup mini M&M's (or ⅔ cup regular, roughly chopped so they distribute better in a small dough ball)
+- 128 g mini M&M's (or 120 g regular, roughly chopped so they distribute better in a small dough ball)
 
 ---
 
@@ -87,7 +87,7 @@ Add the dry mix in one go. Mix on **low** just until no dry streaks remain. Stop
 Fold in all the mini M&M's by hand with a spatula — they're mixed into the dough, not pressed on after.
 
 ### 6) Scoop, then chill (30 min minimum, up to 24 hr)
-Scoop with the 3 Tbsp / #16 scoop onto parchment — you should get about 9 tall mounds. **Do not flatten them.**
+Scoop into ~66 g mounds (a 3 Tbsp / #16 scoop gets you close) onto parchment — about 9 tall mounds total. **Do not flatten them.**
 
 Cover and chill the scooped dough balls **at least 30 minutes**, ideally 1–2 hours. This matters more than any other step for keeping them round — warm dough spreads before the structure sets.
 
@@ -109,24 +109,24 @@ Let them sit on the hot sheet for **10 minutes** — this is where the carryover
 Cut one open once fully cool and check:
 - **Too cakey / bread-like crumb** → next batch, cut baking powder to a pinch or drop it entirely, and confirm you didn't overmix step 4.
 - **Spread too flat** → chill longer (try 2 hr or overnight), confirm butter wasn't too soft going in, check your oven's actual temp with a thermometer (a cool oven = more spread time before setting).
-- **Too dry/crumbly in a bad way (not chewy)** → pull 1 minute earlier next time, and/or bump brown sugar up 1–2 Tbsp at the expense of cane sugar.
-- **Not chewy enough / too cakey-light** → this is almost always overmixed flour or too much leavener; also double-check baking soda measurement (⅓ tsp is small — easy to overpour).
+- **Too dry/crumbly in a bad way (not chewy)** → pull 1 minute earlier next time, and/or bump brown sugar up 12–25 g at the expense of cane sugar.
+- **Not chewy enough / too cakey-light** → this is almost always overmixed flour or too much leavener; also double-check baking soda measurement (1.5 g is small — easy to overpour).
 - **Good** → note the exact bake time that worked in *your* oven and use it for the full batch.
 
 ---
 
 ## Full-batch conversion (once the test batch is dialed in)
-Multiply everything by **2.5–2.75×** for ~22–25 cookies:
-- 3 cups + 2 Tbsp (400 g) flour
-- 1 Tbsp + ½ tsp cornstarch
-- ¾ tsp baking soda
-- ½ tsp baking powder
-- 1 tsp fine sea salt
-- 1¼ cups (283 g) butter
-- 1¼ cups (250 g) brown sugar
-- ½ cup + 1 Tbsp (83 g) cane sugar
-- 2 large eggs + a splash extra vanilla (1 Tbsp total)
-- 2 cups mini M&M's
+Multiply everything by **2.5×** for ~22–25 cookies:
+- 400 g flour
+- 10 g cornstarch
+- 4 g baking soda
+- 2.5 g baking powder
+- 5 g fine sea salt
+- 283 g butter
+- 250 g brown sugar
+- 83 g cane sugar
+- 2 large eggs (about 100 g) + 13 g vanilla extract
+- 340 g mini M&M's
 
 Same method, same chill time — bake in batches so the dough balls stay cold going in.
 

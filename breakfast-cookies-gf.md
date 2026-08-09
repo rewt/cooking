@@ -8,7 +8,7 @@ This is a **half-batch test run** (~9 cookies) so you can dial in spread/bake ti
 
 ## Why this recipe is different from "just sub 1:1" (not just a note — it's built in)
 - **No gluten network** normally traps steam/moisture as a cookie bakes. GF blends lose that, so the base recipe here is built with **more fat and more hygroscopic sugar** than the wheat version to compensate up front, rather than leaving it as a "fix it next time" note.
-- **Extra butter (1 Tbsp more than the wheat version)** — added fat directly counters the dry/sandy texture GF blends are prone to.
+- **Extra butter (14 g more than the wheat version)** — added fat directly counters the dry/sandy texture GF blends are prone to.
 - **More brown sugar, less cane sugar** than the wheat version — brown sugar is hygroscopic (holds moisture); shifting the ratio toward it keeps the center chewy instead of crumbly-dry.
 - **An extra egg yolk** — pure fat + emulsification, no extra flour-absorbing liquid the way a second egg white would add. This is the single biggest lever for chewiness in a GF cookie.
 - **Less cornstarch than the wheat version** — most 1:1 GF blends already carry their own starches (tapioca, potato, rice). Stacking the recipe's cornstarch on top of that at the wheat-version amount pushes it toward dry/chalky, so it's dialed back here.
@@ -55,21 +55,21 @@ This is a **half-batch test run** (~9 cookies) so you can dial in spread/bake ti
 
 ### Dry
 - 160 g gluten-free 1:1 baking blend (weigh it — don't use a cup measure)
-- 1 tsp cornstarch *(less than the wheat version — the GF blend already carries its own starch)*
-- ⅓ tsp baking soda
-- ¼ tsp baking powder
-- ⅜ tsp fine sea salt
-- ½ tsp xanthan gum — **only if your blend doesn't already include it**
+- 3 g cornstarch *(less than the wheat version — the GF blend already carries its own starch)*
+- 1.5 g baking soda
+- 1 g baking powder
+- 2 g fine sea salt
+- 1.5 g xanthan gum — **only if your blend doesn't already include it**
 
 ### Wet
-- ½ cup + 1 Tbsp (127 g) organic unsalted butter, softened but still cool *(1 Tbsp more than the wheat version)*
-- ½ cup + 1 Tbsp (115 g) organic light brown sugar, packed *(more than the wheat version)*
-- 2 Tbsp (25 g) organic cane sugar *(less than the wheat version)*
-- 1 large organic egg + 1 organic egg yolk *(the extra yolk is doing the heavy lifting against dryness)*
-- 2 tsp organic vanilla extract
+- 127 g organic unsalted butter, softened but still cool *(14 g more than the wheat version)*
+- 115 g organic light brown sugar, packed *(more than the wheat version)*
+- 25 g organic cane sugar *(less than the wheat version)*
+- 1 large organic egg (about 50 g) + 1 organic egg yolk (about 18 g) *(the extra yolk is doing the heavy lifting against dryness)*
+- 8 g organic vanilla extract
 
 ### Mix-in
-- ¾ cup mini M&M's (or ⅔ cup regular, roughly chopped)
+- 128 g mini M&M's (or 120 g regular, roughly chopped)
 
 ---
 
@@ -91,7 +91,7 @@ Add the dry mix in one go. Mix on **low** just until no dry streaks remain and t
 Fold in the M&M's by hand — mixed into the dough, not pressed on after.
 
 ### 6) Scoop, then chill (60–90 min minimum, up to 24 hr)
-Scoop with the 3 Tbsp / #16 scoop onto parchment — about 9 tall mounds. **Do not flatten them.**
+Scoop into ~71 g mounds (a 3 Tbsp / #16 scoop gets you close) onto parchment — about 9 tall mounds total. **Do not flatten them.**
 
 Cover and chill **at least 60–90 minutes** (longer than the wheat version). This isn't optional here: it's both what keeps the shape round (no gluten network to resist spread) and what lets the GF starches finish hydrating, which is what fixes grittiness.
 
@@ -110,7 +110,7 @@ Let them sit on the hot sheet for **10 minutes** for carryover cooking, then tra
 ---
 
 ## Test-batch tasting checklist
-- **Dry / sandy crumb** → this is the main GF failure mode even with the adjusted ratios. Next batch: add 1 more Tbsp softened butter, or 1 Tbsp organic whole milk with the wet ingredients. Also confirm you chilled the full 60–90 min (underhydrated starch reads as gritty-dry) and that you pulled it at 9–10 min, not the full 11.
+- **Dry / sandy crumb** → this is the main GF failure mode even with the adjusted ratios. Next batch: add another 14 g softened butter, or 15 g organic whole milk with the wet ingredients. Also confirm you chilled the full 60–90 min (underhydrated starch reads as gritty-dry) and that you pulled it at 9–10 min, not the full 11.
 - **Gritty / gummy texture** → if gritty, chill longer next time (starch didn't fully hydrate); if gummy, you likely double-dosed xanthan gum (check whether your blend already had it before adding more).
 - **Spread too flat** → chill longer, confirm butter wasn't too soft going in, verify oven temp with a thermometer.
 - **Too cakey** → cut baking powder to a pinch, confirm you didn't overmix step 4.
@@ -119,18 +119,18 @@ Let them sit on the hot sheet for **10 minutes** for carryover cooking, then tra
 ---
 
 ## Full-batch conversion (once the test batch is dialed in)
-Multiply everything by **2.5–2.75×** for ~22–24 cookies (weigh everything — don't scale by cup measure):
+Multiply everything by **2.75×** for ~22–24 cookies (weigh everything — don't scale by cup measure):
 - 440 g gluten-free 1:1 baking blend
-- 1 Tbsp cornstarch
-- 1 tsp baking soda
-- ½ tsp baking powder
-- 1 tsp fine sea salt
-- 1¼ tsp xanthan gum, only if your blend doesn't already include it
-- 1½ cups (350 g) butter
-- 1½ cups (315 g) brown sugar
-- ⅓ cup (68 g) cane sugar
-- 2 large eggs + 2 egg yolks
-- 1 Tbsp + 2 tsp vanilla
-- 2 cups mini M&M's
+- 8 g cornstarch
+- 4 g baking soda
+- 3 g baking powder
+- 5.5 g fine sea salt
+- 4 g xanthan gum, only if your blend doesn't already include it
+- 350 g butter
+- 316 g brown sugar
+- 69 g cane sugar
+- 2 large eggs (about 100 g) + 2 egg yolks (about 36 g)
+- 22 g vanilla extract
+- 340 g mini M&M's
 
 Same method, same 60–90 min chill — bake in batches so the dough balls stay cold going in.
