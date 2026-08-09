@@ -132,13 +132,4 @@ Same method, same chill time — bake in batches so the dough balls stay cold go
 
 ---
 
-## Gluten-Free Variant
-
-Swap the 160 g organic all-purpose flour **1:1 by weight** for a **cup-for-cup GF blend that already contains xanthan/guar gum** — King Arthur Measure for Measure or Bob's Red Mill 1:1 are the most reliable for this recipe. Measure by weight, not cup volume; GF blend density varies enough by brand to throw off the flour:fat ratio that controls spread.
-
-Everything else in the recipe stays the same, with three adjustments:
-- **Chill longer:** 60–90 min minimum instead of 30. There's no gluten network here doing structural work, so the chill step (which sets the shape before the middle can spread) is carrying more of the load. It also gives the GF starches time to hydrate, which cuts down on grittiness.
-- **Watch for dryness, not cakeyness.** The most common GF cookie failure is dry/sandy rather than chewy — there's no gluten to help trap moisture. If your GF test batch comes out dry, fix it next round with an extra 1 Tbsp softened butter or by using a whole egg + 1 yolk instead of just the one egg, rather than adjusting the flour.
-- **Only add xanthan gum (½ tsp) if your blend doesn't already include it.** Gum-containing blends (both named above) need nothing extra — adding more will make the crumb gummy instead of crumbly-chewy.
-
-Keep the cornstarch as written; it's still doing tenderizing work on top of whatever starches are already in the GF blend.
+*Looking for the gluten-free version? See `breakfast-cookies-gf.md` — it's not a simple swap-in-place; the ratios are rebuilt to counteract the dryness GF blends tend to introduce.*
