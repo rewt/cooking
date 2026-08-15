@@ -1,18 +1,25 @@
-# Blonde Breakfast Cookies with M&M's — Thick, Round & Chewy (Test Batch)
+# Breakfast Cookies with M&M's — Dense, Dough-Ball Style (v2 Test Batch)
 
-Not a flat diner-style sugar cookie, and not a muffin-top-style "breakfast cookie" either. Target texture: **tall, domed, crumbly-chewy center, barely-crisp edge** — a bakery-case sugar cookie that holds its shape, studded with candy-coated chocolate. No cocoa, no molasses-heavy sugar — kept "blonde" (vanilla + brown butter tones, pale gold crumb).
+Not a diner-style flat sugar cookie, and not a cakey muffin-top either. Target texture: **a baked dough ball** — dense, chewy all the way through, minimal spread, no crumbly/cakey give. Every bite should land on an M&M. Blonde base (no cocoa), pale gold crumb.
 
-This is a **half-batch test run** (~9 cookies) so you can dial in spread/bake time before committing to a full batch. Full-batch conversion is at the bottom.
+This is **v2**, revised after the v1 test batch came out too cakey. The fix isn't a tweak — it's a different mechanism (see below).
+
+This is a **half-batch test run** (~9 cookies) so you can dial in bake time before committing to a full batch. Full-batch conversion is at the bottom.
 
 ---
 
-## Why this gets round/tall instead of flat (the actual mechanism)
-- **More flour relative to fat+sugar** than a typical thin sugar cookie → less spread.
-- **Cornstarch** — tenderizes and keeps the crumb soft/crumbly without adding the extra moisture (and lift) that makes cookies read as "cakey."
-- **Chilled, tall-mounded dough** — a scooped ball (not a flattened disc) baked cold holds height because the outside sets before the middle has a chance to spread.
-- **Baking soda kept low, baking powder kept low** — enough soda for chew and light spread control, a touch of powder for lift, but not enough of either to puff it into a cake crumb.
-- **Extra fat from an egg yolk-leaning ratio + brown sugar** — brown sugar is hygroscopic (holds moisture) → chewy center, not dry/crumbly-in-a-bad-way and not spongy.
-- **Slight underbake + carryover cooking** — pulled while the center still looks a little wet/matte, then set as it cools on the sheet. This is what keeps it crumbly-chewy instead of cakey-dry.
+## What changed from v1, and why (the actual mechanism)
+
+v1 was cakey because two things were pumping air/lift into the dough: baking powder (a pure leavener — any amount pushes toward open, aerated crumb) and 3–4 minutes of creaming softened butter (which whips air into the fat, and that air becomes crumb structure in the oven). Fixing "too cakey" means removing lift, not adjusting bake time.
+
+- **Baking powder — cut entirely.** It has no job in a dough-ball texture. Zero lift wanted, not "a little."
+- **Baking soda — cut way down (⅓ tsp → ⅛ tsp).** At the old dose it was contributing spread/lift on top of browning. Now it's there for browning and chew only.
+- **Cold, cubed butter instead of softened, creamed butter.** This is the biggest change. Mix on low just until the butter breaks into pea-sized bits coated in sugar — it should look sandy/crumbly, **not** light and fluffy. No aeration goes in. (This is the same logic behind why Levain-style bakery cookies are dense and craggy instead of smooth-crumbed — the butter never gets whipped, so there's no air scaffold for the oven to expand.)
+- **Part bread flour.** Chew comes from gluten development, not from tenderizing starches. Swapping about a third of the flour to bread flour (higher protein) adds real chew without needing more mixing time (which would otherwise toughen it).
+- **Cornstarch reduced (1½ tsp → 1 tsp).** Cornstarch tenderizes — useful in v1 to fight dryness, but now that bread flour is adding chew, too much cornstarch software-pads against it.
+- **Sugar trimmed slightly, brown-sugar-heavy.** Less total sugar = less spread and less of the shiny, crackly, thin-cookie surface. More brown sugar relative to cane keeps it moist without adding shine/spread.
+- **Egg stays cold.** A cold egg going into a cold, unaerated butter-sugar mix keeps everything from softening/emulsifying prematurely — you want the dough to stay cool and slightly shaggy right up until it goes in the oven.
+- **Hotter, longer bake, no early pull.** You confirmed you want the center **fully set**, not gooey/molten — so unlike a Levain copycat (blazing oven, short bake, wet center), this bakes a bit hotter and a bit longer than v1 so the center fully cooks through while the dense, low-lift dough resists spreading. Pull point is "matte and no jiggle," not "still looks wet."
 
 ---
 
@@ -24,11 +31,11 @@ This is a **half-batch test run** (~9 cookies) so you can dial in spread/bake ti
 
 **Dry goods**
 - Organic all-purpose flour
+- Bread flour (adds chew — not swappable 1:1 for AP, it's doing a specific job here)
 - Organic cane sugar
 - Organic light brown sugar
 - Cornstarch (organic if you can find it; Anthony's and Bob's Red Mill both carry organic)
 - Baking soda
-- Baking powder
 - Fine sea salt
 - Organic pure vanilla extract
 
@@ -49,27 +56,27 @@ This is a **half-batch test run** (~9 cookies) so you can dial in spread/bake ti
 ---
 
 ## Before You Start
-- **Butter:** pull from the fridge ~30–45 min before you begin. Target 65–68°F — press-test with a fingertip: it should leave a dent that holds its shape, not sink in mushy or feel greasy/shiny. Butter that's too warm creams differently and leads to more spread later, working against the "round not flat" goal.
-- **Egg:** bring to room temp too (~30 min out on the counter, or submerge whole/in-shell in warm water for 5–10 min if you're short on time). A cold egg dropped into creamed butter+sugar can make the mixture look broken/curdled, which means uneven fat distribution before the flour goes in.
-- **Everything else** (flour, sugars, leaveners, cornstarch, salt, vanilla, M&M's) is temperature-neutral — pull straight from the pantry, no prep needed.
-- The dough goes the **opposite** direction once mixed: cold, not room temp — see the chill step in the method below.
+- **Butter:** straight from the fridge, **cold**. Cut into ½" cubes right before you start mixing — don't let it sit out and soften. This is the opposite of v1: cold butter is the whole point now, since it's what keeps the dough from aerating when mixed.
+- **Egg:** also straight from the fridge, **cold** — don't bring to room temp this time. A cold egg dropped into the cold butter/sugar mix helps keep everything from prematurely softening.
+- **Everything else** (flours, sugars, baking soda, cornstarch, salt, vanilla, M&M's) is temperature-neutral — pull straight from the pantry, no prep needed.
+- The dough goes **colder still** once mixed — see the chill step in the method below (longer than v1, since cold butter chunks need to stay firm going into the oven).
 
 ---
 
 ## Ingredients — Test Batch (~9 cookies)
 
 ### Dry
-- 160 g organic all-purpose flour
-- 1½ tsp cornstarch
-- ⅓ tsp baking soda
-- ¼ tsp baking powder
+- 115 g organic all-purpose flour
+- 55 g bread flour
+- 1 tsp cornstarch
+- ⅛ tsp baking soda
 - ⅜ tsp fine sea salt
 
 ### Wet
-- 113 g organic unsalted butter, **softened but still cool** (press-and-hold-a-dent, not squishy)
-- 100 g organic light brown sugar, packed
-- 33 g organic cane sugar
-- 1 large organic egg (about 50 g)
+- 120 g organic unsalted butter, **cold, cut into ½" cubes** (not softened)
+- 105 g organic light brown sugar, packed
+- 20 g organic cane sugar
+- 1 large organic egg (about 50 g), cold
 - 1½ tsp organic vanilla extract
 
 ### Mix-in
@@ -80,64 +87,65 @@ This is a **half-batch test run** (~9 cookies) so you can dial in spread/bake ti
 ## Method
 
 ### 1) Dry mix (2 min)
-Whisk flour, cornstarch, baking soda, baking powder, and salt together in a bowl. Set aside.
+Whisk AP flour, bread flour, cornstarch, baking soda, and salt together in a bowl. Set aside.
 
-### 2) Cream butter + sugars (3–4 min)
-Beat butter, brown sugar, and cane sugar on **medium** until light and fluffy — pale and slightly increased in volume, about 3 minutes. Don't rush this; it's most of your aeration, and you don't want to make it up later with extra leavener (that's what tips a cookie into "cakey").
+### 2) Cut cold butter into the sugars (1–2 min)
+Add the cold cubed butter, brown sugar, and cane sugar to the mixer bowl. Mix on **low** just until the butter breaks down into pea-sized (or smaller) bits coated in sugar. The mixture should look **sandy/crumbly, not light or fluffy** — if it looks smooth and pale like whipped frosting, you've gone too far and started creaming; that's the exact thing that made v1 cakey. Stop as soon as you no longer see large butter chunks.
 
-### 3) Egg + vanilla (1 min)
-Add egg and vanilla. Beat on **medium-low** just until combined — don't overbeat once the egg is in.
+### 3) Egg + vanilla (20–30 sec)
+Add the cold egg and vanilla. Mix on **low** just until the dough starts to come together into a shaggy mass. Some visible small butter flecks are fine — good, even.
 
-### 4) Add dry mix (30–45 sec)
-Add the dry mix in one go. Mix on **low** just until no dry streaks remain. Stop as soon as it comes together — overmixing here builds gluten and makes the crumb tough/tight instead of crumbly.
+### 4) Add dry mix (20–30 sec)
+Add the dry mix in one go. Mix on **low** just until no dry streaks remain. The dough should look shaggy and chunky, not smooth. Overmixing here still builds gluten past what you want and can turn the texture tough instead of chewy.
 
 ### 5) Fold in M&M's (30 sec)
-Fold in all the mini M&M's by hand with a spatula — they're mixed into the dough, not pressed on after.
+Fold in all the mini M&M's by hand with a spatula.
 
-### 6) Scoop, then chill (30 min minimum, up to 24 hr)
+### 6) Scoop, then chill (45–60 min minimum, up to 24 hr)
 Scoop into ~66 g mounds (a 3 Tbsp / #16 scoop gets you close) onto parchment — about 9 tall mounds total. **Do not flatten them.**
 
-Cover and chill the scooped dough balls **at least 30 minutes**, ideally 1–2 hours. This matters more than any other step for keeping them round — warm dough spreads before the structure sets.
+Cover and chill **at least 45–60 minutes** — longer than v1. The cold butter chunks need to stay solid going into the oven; if they soften back up before baking, you lose the low-spread, dense structure this whole method is built around.
 
-> If short on time, 30 min in the freezer works as a substitute for a longer fridge chill.
+> If short on time, 30–40 min in the freezer works as a substitute.
 
-### 7) Bake (10–12 min)
-- Oven: **375°F (190°C)**, rack in the middle.
-- Use a **cool/room-temp baking sheet** (not one still warm from a previous batch — that pre-spreads the bottoms).
+### 7) Bake (12–14 min)
+- Oven: **385°F (196°C)**, rack in the middle.
+- Use a **cool/room-temp baking sheet** (not one still warm from a previous batch).
 - Space mounds 2–3" apart.
-- Bake **10–12 minutes**, rotating the pan halfway.
-- Pull them when the **edges are set and just barely golden** but the **center still looks slightly underdone/matte**, not shiny-wet. It will look under to you — that's correct.
+- Bake **12–14 minutes**, rotating the pan halfway.
+- This time, pull them when the **centers look matte and fully set with no jiggle** — not shiny/wet like the v1 pull point. You want fully baked-through here, not an underbaked center; the density and chew come from the low-lift mixing method, not from pulling early.
 
 ### 8) Cool on the sheet (10 min)
-Let them sit on the hot sheet for **10 minutes** — this is where the carryover bake happens and the center firms up to chewy without turning cakey or dry. Then transfer to a rack.
+Let them sit on the hot sheet for **10 minutes**, then transfer to a rack.
 
 ---
 
 ## Test-batch tasting checklist
 Cut one open once fully cool and check:
-- **Too cakey / bread-like crumb** → next batch, cut baking powder to a pinch or drop it entirely, and confirm you didn't overmix step 4.
-- **Spread too flat** → chill longer (try 2 hr or overnight), confirm butter wasn't too soft going in, check your oven's actual temp with a thermometer (a cool oven = more spread time before setting).
-- **Too dry/crumbly in a bad way (not chewy)** → pull 1 minute earlier next time, and/or bump brown sugar up 12–25 g at the expense of cane sugar.
-- **Not chewy enough / too cakey-light** → this is almost always overmixed flour or too much leavener; also double-check baking soda measurement (⅓ tsp is small — easy to overpour).
-- **Good** → note the exact bake time that worked in *your* oven and use it for the full batch.
+- **Still cakey / open crumb** → double-check step 2: did the butter-sugar mixture look sandy, or did it get pale/fluffy? If it crept toward fluffy, pull the mixer sooner next time and consider chilling the butter cubes 10 min in the freezer right before mixing.
+- **Spread too flat** → chill longer (try 60 min or overnight), confirm the butter was truly cold (not just cool) going in, check your oven's actual temp with a thermometer.
+- **Dry/crumbly, not chewy** → bump butter up 10–15 g next time, and/or confirm you didn't overmix step 4 (built too much gluten without enough fat to keep it tender).
+- **Dense but tough/chewy in a bad way (gummy or rubbery)** → pull back the bread flour ratio next time (try 40 g bread flour / 130 g AP instead of 55/115) — likely too much gluten development for the fat content.
+- **Good — dense, chewy, fully set, M&M in every bite** → note the exact bake time that worked in *your* oven and use it for the full batch.
 
 ---
 
 ## Full-batch conversion (once the test batch is dialed in)
 Multiply everything by **2.5×** for ~22–25 cookies:
-- 400 g flour
-- 1 Tbsp + ½ tsp cornstarch
-- ¾ tsp baking soda
-- ½ tsp baking powder
+- 288 g organic all-purpose flour
+- 138 g bread flour
+- 2½ tsp cornstarch
+- ⅓ tsp baking soda
 - 1 tsp fine sea salt
-- 283 g butter
-- 250 g brown sugar
-- 83 g cane sugar
-- 2 large eggs (about 100 g) + 1 Tbsp vanilla extract
-- 340 g mini M&M's
+- 300 g butter, cold, cubed
+- 263 g brown sugar
+- 50 g cane sugar
+- 2 large eggs (about 100 g), cold
+- 1 Tbsp + ¾ tsp vanilla extract
+- 320 g mini M&M's
 
-Same method, same chill time — bake in batches so the dough balls stay cold going in.
+Same method, same (or longer) chill — bake in batches so the dough balls stay cold going in, and keep the sheet cool between batches.
 
 ---
 
-*Looking for the gluten-free version? See `breakfast-cookies-gf.md` — it's not a simple swap-in-place; the ratios are rebuilt to counteract the dryness GF blends tend to introduce.*
+*Looking for the gluten-free version? See `breakfast-cookies-gf.md`. It hasn't been updated to the v2 dense/dough-ball method yet — flag it if you want that ported over too, since the bread-flour swap doesn't translate directly and needs its own fix for chew.*
