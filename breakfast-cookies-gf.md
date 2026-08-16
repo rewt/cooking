@@ -52,7 +52,7 @@ The wheat v2 fix removed two lift sources (baking powder, creamed butter) and ad
 - Stand or hand mixer (paddle attachment if stand)
 - Kitchen scale (**use it** — GF blend density varies enough by brand that cup measures throw off the ratio controlling spread and dryness)
 - Medium bowl (dry whisk)
-- Large cookie scoop, **3 Tbsp / #16**
+- Medium cookie scoop, **2 Tbsp / #20**
 - Baking sheet + parchment or silicone mat
 - Plastic wrap (for chilling)
 
@@ -106,18 +106,18 @@ Add the dry mix in one go. Mix on **low** just until no dry streaks remain and t
 Fold in the M&M's by hand — mixed into the dough, not pressed on after.
 
 ### 6) Scoop, then chill (60–90 min minimum, up to 24 hr)
-Scoop into ~71 g mounds (a 3 Tbsp / #16 scoop gets you close) onto parchment — about 9 tall mounds total. **Do not flatten them.**
+Scoop into ~46 g mounds (a 2 Tbsp / #20 scoop gets you close) onto parchment — about 13 tall mounds total. **Do not flatten them.** Sizing down from the original 3 Tbsp scoop is intentional — a smaller mound has less distance for heat to travel to the center, which helps it finish baking through in the same window instead of setting on the outside before the middle catches up.
 
 Cover and chill **at least 60–90 minutes**. This is doing three jobs at once now: keeping the cold butter chunks solid, letting the GF starches finish hydrating, and giving the psyllium time to gel and build its chew. Don't shortcut this — it's the step doing the most work in this recipe.
 
 > If short on time, 45–60 min in the freezer is the minimum acceptable substitute — don't go shorter with this dough.
 
-### 7) Bake (11–13 min)
+### 7) Bake (12–15 min)
 - Oven: **380°F (193°C)**, rack in the middle.
 - Use a **cool/room-temp baking sheet**.
 - Space mounds 2–3" apart.
-- Bake **11–13 minutes** — slightly less than the wheat v2, since GF crumb still dries out a bit faster once set. Rotate the pan halfway.
-- Pull when the **centers look matte and fully set with no jiggle** — same fully-baked-through target as the wheat version, not the underbaked/wet pull point from v1. Check a minute early the first time you make this batch, since oven-to-oven variance matters more here than in the wheat version.
+- Bake **12–15 minutes** — rotate the pan halfway. Like the wheat version, this runs longer than mound size alone would suggest: the cold cubed butter, cold egg, and the 60–90 min chill on top of that mean the dough starts from a noticeably colder point than a typical dough, so part of the bake time goes into bringing the center up to temperature before it can finish setting. That thermal lag — not a ratio problem — is what left the previous version underbaked at 380°F/11–13 min.
+- **Doneness check — use a thermometer, not just looks:** at the low end of the range, pull one cookie and probe the center. Target **195–200°F** (pull at the lower end of that vs. the wheat version's 200–205°F, since GF crumb dries out faster once fully set). A matte, no-jiggle surface is a useful secondary check, but the surface can look set before the center actually is — that's what caused the underbaked batch. If you don't have a thermometer, break one open at the low end of the range and check the crumb before pulling the rest.
 
 ### 8) Cool on the sheet (10 min)
 Let them sit on the hot sheet for **10 minutes**, then transfer to a rack.
@@ -130,12 +130,13 @@ Let them sit on the hot sheet for **10 minutes**, then transfer to a rack.
 - **Gummy or slimy texture** → you've overdone psyllium and/or xanthan. Cut psyllium back to ¾ tsp, and double check your GF blend didn't already have xanthan before you added more.
 - **Spread too flat** → chill longer, confirm butter was truly cold (not just cool) going in, verify oven temp with a thermometer.
 - **Dry** → bump butter up 10 g next time, or add 1 Tbsp organic whole milk with the wet ingredients.
-- **Good — dense, chewy, fully set, M&M in every bite** → note your exact bake time and use it for the full batch.
+- **Still wet/underbaked at the center after the full bake time** → don't just add a minute and guess again — probe with a thermometer next time (target 195–200°F) so you know exactly how far off you were, then extend the time by that gap. This is a cold-dough issue, not a recipe-ratio issue.
+- **Good — dense, chewy, fully set, M&M in every bite** → note your exact bake time (and internal temp, if you checked) and use it for the full batch.
 
 ---
 
 ## Full-batch conversion (once the test batch is dialed in)
-Multiply everything by **2.75×** for ~22–24 cookies (weigh everything — don't scale by cup measure):
+Multiply everything by **2.75×** for ~34–36 cookies (smaller 2 Tbsp scoop; weigh everything — don't scale by cup measure):
 - 440 g gluten-free 1:1 baking blend
 - 2¾ tsp psyllium husk powder
 - 2 tsp cornstarch

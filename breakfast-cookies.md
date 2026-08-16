@@ -49,7 +49,7 @@ v1 was cakey because two things were pumping air/lift into the dough: baking pow
 ## Equipment
 - Stand or hand mixer (paddle attachment if stand)
 - Medium bowl (dry whisk)
-- Large cookie scoop, **3 Tbsp / #16** (this is what controls height — don't eyeball it)
+- Medium cookie scoop, **2 Tbsp / #20** (this is what controls height — don't eyeball it)
 - Baking sheet + parchment or silicone mat
 - Plastic wrap (for chilling the dough or the scooped balls)
 
@@ -102,18 +102,18 @@ Add the dry mix in one go. Mix on **low** just until no dry streaks remain. The 
 Fold in all the mini M&M's by hand with a spatula.
 
 ### 6) Scoop, then chill (45–60 min minimum, up to 24 hr)
-Scoop into ~66 g mounds (a 3 Tbsp / #16 scoop gets you close) onto parchment — about 9 tall mounds total. **Do not flatten them.**
+Scoop into ~45 g mounds (a 2 Tbsp / #20 scoop gets you close) onto parchment — about 13 tall mounds total. **Do not flatten them.** Sizing down from the original 3 Tbsp scoop is intentional — a smaller mound has less distance for heat to travel to the center, which helps it finish baking through in the same window instead of setting on the outside before the middle catches up.
 
 Cover and chill **at least 45–60 minutes** — longer than v1. The cold butter chunks need to stay solid going into the oven; if they soften back up before baking, you lose the low-spread, dense structure this whole method is built around.
 
 > If short on time, 30–40 min in the freezer works as a substitute.
 
-### 7) Bake (12–14 min)
+### 7) Bake (13–16 min)
 - Oven: **385°F (196°C)**, rack in the middle.
 - Use a **cool/room-temp baking sheet** (not one still warm from a previous batch).
 - Space mounds 2–3" apart.
-- Bake **12–14 minutes**, rotating the pan halfway.
-- This time, pull them when the **centers look matte and fully set with no jiggle** — not shiny/wet like the v1 pull point. You want fully baked-through here, not an underbaked center; the density and chew come from the low-lift mixing method, not from pulling early.
+- Bake **13–16 minutes**, rotating the pan halfway. This is longer than mound size alone would suggest — the cold cubed butter, cold egg, and the chill on top of that mean the dough starts baking from a noticeably colder point than a typical room-temp dough, so part of the bake time goes into just bringing the center up to temperature before it can finish setting. (This is what undershot the previous version: the bake time was tuned as if the dough started at a normal temperature, and it didn't.)
+- **Doneness check — use a thermometer, not just looks:** at the low end of the range, pull one cookie and probe the center with an instant-read thermometer. Target **200–205°F**. A matte, no-jiggle surface is a useful secondary check, but the surface can look set before the center has actually finished — that's exactly what caused the underbaked batch. If you don't have a thermometer, break one open at the low end of the range and check the crumb directly before pulling the rest.
 
 ### 8) Cool on the sheet (10 min)
 Let them sit on the hot sheet for **10 minutes**, then transfer to a rack.
@@ -126,12 +126,13 @@ Cut one open once fully cool and check:
 - **Spread too flat** → chill longer (try 60 min or overnight), confirm the butter was truly cold (not just cool) going in, check your oven's actual temp with a thermometer.
 - **Dry/crumbly, not chewy** → bump butter up 10–15 g next time, and/or confirm you didn't overmix step 4 (built too much gluten without enough fat to keep it tender).
 - **Dense but tough/chewy in a bad way (gummy or rubbery)** → pull back the bread flour ratio next time (try 40 g bread flour / 130 g AP instead of 55/115) — likely too much gluten development for the fat content.
-- **Good — dense, chewy, fully set, M&M in every bite** → note the exact bake time that worked in *your* oven and use it for the full batch.
+- **Still wet/underbaked at the center after the full bake time** → don't just add a minute and guess again — probe with a thermometer next time (target 200–205°F) so you know exactly how far off you were, then extend the time by that gap. This is a cold-dough issue, not a recipe-ratio issue.
+- **Good — dense, chewy, fully set, M&M in every bite** → note the exact bake time (and internal temp, if you checked) that worked in *your* oven and use it for the full batch.
 
 ---
 
 ## Full-batch conversion (once the test batch is dialed in)
-Multiply everything by **2.5×** for ~22–25 cookies:
+Multiply everything by **2.5×** for ~32–34 cookies (smaller 2 Tbsp scoop):
 - 288 g organic all-purpose flour
 - 138 g bread flour
 - 2½ tsp cornstarch
@@ -148,4 +149,4 @@ Same method, same (or longer) chill — bake in batches so the dough balls stay 
 
 ---
 
-*Looking for the gluten-free version? See `breakfast-cookies-gf.md`. It hasn't been updated to the v2 dense/dough-ball method yet — flag it if you want that ported over too, since the bread-flour swap doesn't translate directly and needs its own fix for chew.*
+*Looking for the gluten-free version? See `breakfast-cookies-gf.md` — it's on the same v2 dense/dough-ball method, with psyllium husk powder standing in for bread flour's chew.*
