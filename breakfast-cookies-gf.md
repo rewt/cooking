@@ -112,12 +112,12 @@ Cover and chill **at least 60–90 minutes**. This is doing three jobs at once n
 
 > If short on time, 45–60 min in the freezer is the minimum acceptable substitute — don't go shorter with this dough.
 
-### 7) Bake (12–15 min)
+### 7) Bake (15–18 min)
 - Oven: **380°F (193°C)**, rack in the middle.
 - Use a **cool/room-temp baking sheet**.
 - Space mounds 2–3" apart.
-- Bake **12–15 minutes** — rotate the pan halfway. Like the wheat version, this runs longer than mound size alone would suggest: the cold cubed butter, cold egg, and the 60–90 min chill on top of that mean the dough starts from a noticeably colder point than a typical dough, so part of the bake time goes into bringing the center up to temperature before it can finish setting. That thermal lag — not a ratio problem — is what left the previous version underbaked at 380°F/11–13 min.
-- **Doneness check — use a thermometer, not just looks:** at the low end of the range, pull one cookie and probe the center. Target **195–200°F** (pull at the lower end of that vs. the wheat version's 200–205°F, since GF crumb dries out faster once fully set). A matte, no-jiggle surface is a useful secondary check, but the surface can look set before the center actually is — that's what caused the underbaked batch. If you don't have a thermometer, break one open at the low end of the range and check the crumb before pulling the rest.
+- Bake **15–18 minutes** — rotate the pan halfway. Like the wheat version, this runs longer than mound size alone would suggest: the cold cubed butter, cold egg, and the 60–90 min chill on top of that mean the dough starts from a noticeably colder point than a typical dough, so part of the bake time goes into bringing the center up to temperature before it can finish setting. (The wheat version's window was tested and needed to go up from 13–16 to 16–19 min to reliably hit temp without a rescue bake — the GF window here is bumped proportionally.)
+- **Doneness check — use a thermometer, not just looks:** starting at the low end of the range, pull one cookie and probe the center. Target **195–200°F** (pull at the lower end of that vs. the wheat version's 200–205°F, since GF crumb dries out faster once fully set) — confirmed against an actual bite on the wheat version: at temp, the crumb should be soft, moist, and chewy but hold together, not smear or taste raw. A matte, no-jiggle surface is a useful secondary check, but the surface can look set before the center actually is — check with the thermometer before trusting looks alone.
 
 ### 8) Cool on the sheet (10 min)
 Let them sit on the hot sheet for **10 minutes**, then transfer to a rack.
@@ -130,8 +130,8 @@ Let them sit on the hot sheet for **10 minutes**, then transfer to a rack.
 - **Gummy or slimy texture** → you've overdone psyllium and/or xanthan. Cut psyllium back to ¾ tsp, and double check your GF blend didn't already have xanthan before you added more.
 - **Spread too flat** → chill longer, confirm butter was truly cold (not just cool) going in, verify oven temp with a thermometer.
 - **Dry** → bump butter up 10 g next time, or add 1 Tbsp organic whole milk with the wet ingredients.
-- **Still wet/underbaked at the center after the full bake time** → don't just add a minute and guess again — probe with a thermometer next time (target 195–200°F) so you know exactly how far off you were, then extend the time by that gap. This is a cold-dough issue, not a recipe-ratio issue.
-- **Good — dense, chewy, fully set, M&M in every bite** → note your exact bake time (and internal temp, if you checked) and use it for the full batch.
+- **Soft in the middle — know which kind you have.** Soft **and holding together** (tender, moist, chewy, tears rather than smears, doesn't taste raw) is the *target texture* — that's correct, not underbaked. Soft **and wet** (smears, tastes like raw dough, doesn't hold shape) means it's genuinely underbaked, not gummy from psyllium — don't just add a minute and guess again, probe with a thermometer next time (target 195–200°F) so you know exactly how far off you were, then extend the time by that gap. This is a cold-dough issue, not a recipe-ratio issue.
+- **Good — soft-but-holds-together chew, fully set, M&M in every bite** → note your exact bake time and internal temp that worked in *your* oven and use it for the full batch.
 
 ---
 

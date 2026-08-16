@@ -108,12 +108,12 @@ Cover and chill **at least 45–60 minutes** — longer than v1. The cold butter
 
 > If short on time, 30–40 min in the freezer works as a substitute.
 
-### 7) Bake (13–16 min)
+### 7) Bake (16–19 min)
 - Oven: **385°F (196°C)**, rack in the middle.
 - Use a **cool/room-temp baking sheet** (not one still warm from a previous batch).
 - Space mounds 2–3" apart.
-- Bake **13–16 minutes**, rotating the pan halfway. This is longer than mound size alone would suggest — the cold cubed butter, cold egg, and the chill on top of that mean the dough starts baking from a noticeably colder point than a typical room-temp dough, so part of the bake time goes into just bringing the center up to temperature before it can finish setting. (This is what undershot the previous version: the bake time was tuned as if the dough started at a normal temperature, and it didn't.)
-- **Doneness check — use a thermometer, not just looks:** at the low end of the range, pull one cookie and probe the center with an instant-read thermometer. Target **200–205°F**. A matte, no-jiggle surface is a useful secondary check, but the surface can look set before the center has actually finished — that's exactly what caused the underbaked batch. If you don't have a thermometer, break one open at the low end of the range and check the crumb directly before pulling the rest.
+- Bake **16–19 minutes**, rotating the pan halfway. This is longer than mound size alone would suggest — the cold cubed butter, cold egg, and the chill on top of that mean the dough starts baking from a noticeably colder point than a typical room-temp dough, so a meaningful chunk of the bake time goes into just bringing the center up to temperature before it can finish setting. (An earlier version of this recipe called for 13–16 min and still came out underbaked — a test batch needed a rescue re-bake to actually hit temp, confirming the window needed to be longer, not just the doneness check better.)
+- **Doneness check — use a thermometer, not just looks:** starting at the low end of the range, pull one cookie and probe the center with an instant-read thermometer. Target **200–205°F** — confirmed against an actual bite: at 200°F the crumb was soft, moist, and chewy but held together (no smearing, no raw taste), which is exactly the target texture. A matte, no-jiggle surface is a useful secondary check, but the surface can look set before the center has actually finished — check with the thermometer before trusting looks alone.
 
 ### 8) Cool on the sheet (10 min)
 Let them sit on the hot sheet for **10 minutes**, then transfer to a rack.
@@ -126,8 +126,8 @@ Cut one open once fully cool and check:
 - **Spread too flat** → chill longer (try 60 min or overnight), confirm the butter was truly cold (not just cool) going in, check your oven's actual temp with a thermometer.
 - **Dry/crumbly, not chewy** → bump butter up 10–15 g next time, and/or confirm you didn't overmix step 4 (built too much gluten without enough fat to keep it tender).
 - **Dense but tough/chewy in a bad way (gummy or rubbery)** → pull back the bread flour ratio next time (try 40 g bread flour / 130 g AP instead of 55/115) — likely too much gluten development for the fat content.
-- **Still wet/underbaked at the center after the full bake time** → don't just add a minute and guess again — probe with a thermometer next time (target 200–205°F) so you know exactly how far off you were, then extend the time by that gap. This is a cold-dough issue, not a recipe-ratio issue.
-- **Good — dense, chewy, fully set, M&M in every bite** → note the exact bake time (and internal temp, if you checked) that worked in *your* oven and use it for the full batch.
+- **Soft in the middle — know which kind you have.** Soft **and holding together** (tender, moist, chewy, tears rather than smears, doesn't taste raw) is the *target texture* — that's correct, not underbaked. Soft **and wet/gummy** (sticks to teeth, smears, tastes like raw dough, doesn't hold shape) means it's genuinely underbaked — don't just add a minute and guess again, probe with a thermometer next time (target 200–205°F) so you know exactly how far off you were, then extend the time by that gap. This is a cold-dough issue, not a recipe-ratio issue.
+- **Good — soft-but-holds-together chew, fully set, M&M in every bite** → note the exact bake time and internal temp that worked in *your* oven and use it for the full batch.
 
 ---
 
