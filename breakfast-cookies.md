@@ -56,8 +56,8 @@ v1 was cakey because two things were pumping air/lift into the dough: baking pow
 ---
 
 ## Before You Start
-- **Butter:** straight from the fridge, **cold**. Cut into ½" cubes right before you start mixing — don't let it sit out and soften. This is the opposite of v1: cold butter is the whole point now, since it's what keeps the dough from aerating when mixed.
-- **Egg:** also straight from the fridge, **cold** — don't bring to room temp this time. A cold egg dropped into the cold butter/sugar mix helps keep everything from prematurely softening.
+- **Butter (120 g):** straight from the fridge, **cold**. Cut into ½" cubes right before you start mixing — don't let it sit out and soften. This is the opposite of v1: cold butter is the whole point now, since it's what keeps the dough from aerating when mixed.
+- **Egg (about 50 g, 1 large):** also straight from the fridge, **cold** — don't bring to room temp this time. A cold egg dropped into the cold butter/sugar mix helps keep everything from prematurely softening.
 - **Everything else** (flours, sugars, baking soda, cornstarch, salt, vanilla, M&M's) is temperature-neutral — pull straight from the pantry, no prep needed.
 - The dough goes **colder still** once mixed — see the chill step in the method below (longer than v1, since cold butter chunks need to stay firm going into the oven).
 

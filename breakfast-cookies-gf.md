@@ -59,8 +59,8 @@ The wheat v2 fix removed two lift sources (baking powder, creamed butter) and ad
 ---
 
 ## Before You Start
-- **Butter:** straight from the fridge, **cold**. Cut into ½" cubes right before mixing — don't let it soften. Cold butter is the point now: it's what keeps the dough from aerating when mixed, same as the wheat v2.
-- **Egg + egg yolk:** also straight from the fridge, **cold** — don't bring to room temp this time. A cold egg dropped into the cold butter/sugar mix keeps everything from prematurely softening.
+- **Butter (135 g):** straight from the fridge, **cold**. Cut into ½" cubes right before mixing — don't let it soften. Cold butter is the point now: it's what keeps the dough from aerating when mixed, same as the wheat v2.
+- **Egg + egg yolk (1 large egg, about 50 g, + 1 yolk, about 18 g):** also straight from the fridge, **cold** — don't bring to room temp this time. A cold egg dropped into the cold butter/sugar mix keeps everything from prematurely softening.
 - **Everything else** (GF blend, psyllium, sugars, baking soda, cornstarch, salt, vanilla, xanthan gum, M&M's) is temperature-neutral — pull straight from the pantry, no prep needed.
 - The dough goes **colder still** once mixed — see the chill step below. It's doing double duty here: firming the cold butter chunks back up, *and* giving the psyllium time to hydrate and the GF starches time to fully absorb moisture.
 
