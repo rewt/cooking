@@ -49,7 +49,7 @@ v1 was cakey because two things were pumping air/lift into the dough: baking pow
 ## Equipment
 - Stand or hand mixer (paddle attachment if stand)
 - Medium bowl (dry whisk)
-- Medium cookie scoop, **2 Tbsp / #20** (this is what controls height — don't eyeball it)
+- Small cookie scoop, **1½ Tbsp / #40** (this is what controls height — don't eyeball it)
 - Baking sheet + parchment or silicone mat
 - Plastic wrap (for chilling the dough or the scooped balls)
 
@@ -102,18 +102,18 @@ Add the dry mix in one go. Mix on **low** just until no dry streaks remain. The 
 Fold in all the mini M&M's by hand with a spatula.
 
 ### 6) Scoop, then chill (45–60 min minimum, up to 24 hr)
-Scoop into ~45 g mounds (a 2 Tbsp / #20 scoop gets you close) onto parchment — about 13 tall mounds total. **Do not flatten them.** Sizing down from the original 3 Tbsp scoop is intentional — a smaller mound has less distance for heat to travel to the center, which helps it finish baking through in the same window instead of setting on the outside before the middle catches up.
+Scoop into ~35 g mounds (a 1½ Tbsp / #40 scoop gets you close) onto parchment — about 17 tall mounds total. **Do not flatten them.** Sizing down from the original 3 Tbsp scoop is intentional — a smaller mound has less distance for heat to travel to the center, which helps it finish baking through without needing as long in the oven.
 
 Cover and chill **at least 45–60 minutes** — longer than v1. The cold butter chunks need to stay solid going into the oven; if they soften back up before baking, you lose the low-spread, dense structure this whole method is built around.
 
 > If short on time, 30–40 min in the freezer works as a substitute.
 
-### 7) Bake (16–19 min)
+### 7) Bake (13–16 min, verify — see note)
 - Oven: **385°F (196°C)**, rack in the middle.
 - Use a **cool/room-temp baking sheet** (not one still warm from a previous batch).
 - Space mounds 2–3" apart.
-- Bake **16–19 minutes**, rotating the pan halfway. This is longer than mound size alone would suggest — the cold cubed butter, cold egg, and the chill on top of that mean the dough starts baking from a noticeably colder point than a typical room-temp dough, so a meaningful chunk of the bake time goes into just bringing the center up to temperature before it can finish setting. (An earlier version of this recipe called for 13–16 min and still came out underbaked — a test batch needed a rescue re-bake to actually hit temp, confirming the window needed to be longer, not just the doneness check better.)
-- **Doneness check — use a thermometer, not just looks:** starting at the low end of the range, pull one cookie and probe the center with an instant-read thermometer. Target **200–205°F** — confirmed against an actual bite: at 200°F the crumb was soft, moist, and chewy but held together (no smearing, no raw taste), which is exactly the target texture. A matte, no-jiggle surface is a useful secondary check, but the surface can look set before the center has actually finished — check with the thermometer before trusting looks alone.
+- Bake **13–16 minutes** as a starting estimate, rotating the pan halfway. This is scaled down from the 16–19 min window that was dialed in and confirmed at the 2 Tbsp/~45 g size — a 1½ Tbsp/~35 g mound has less distance for heat to reach the center, so it should need less time, but this exact size hasn't been temperature-tested yet. Treat the range as a starting point, not a confirmed number, until you've checked it once.
+- **Doneness check — use a thermometer, not just looks:** starting at the low end of the range, pull one cookie and probe the center with an instant-read thermometer. Target **200–205°F** — confirmed by taste at this temp on the previous batch size: the crumb was soft, moist, and chewy but held together (no smearing, no raw taste), which is exactly the target texture. A matte, no-jiggle surface is a useful secondary check, but the surface can look set before the center has actually finished — check with the thermometer before trusting looks alone, especially on this first run at the new size.
 
 ### 8) Cool on the sheet (10 min)
 Let them sit on the hot sheet for **10 minutes**, then transfer to a rack.
@@ -131,8 +131,8 @@ Cut one open once fully cool and check:
 
 ---
 
-## Full-batch conversion (once the test batch is dialed in)
-Multiply everything by **2.5×** for ~32–34 cookies (smaller 2 Tbsp scoop):
+## Full-batch conversion
+Multiply everything by **2.5×** for **~43 cookies** at the 1½ Tbsp/~35 g scoop size:
 - 288 g organic all-purpose flour
 - 138 g bread flour
 - 2½ tsp cornstarch
@@ -145,7 +145,7 @@ Multiply everything by **2.5×** for ~32–34 cookies (smaller 2 Tbsp scoop):
 - 1 Tbsp + ¾ tsp vanilla extract
 - 320 g mini M&M's
 
-Same method, same (or longer) chill — bake in batches so the dough balls stay cold going in, and keep the sheet cool between batches.
+Same method, same (or longer) chill — bake in batches so the dough balls stay cold going in, and keep the sheet cool between batches. Since the 1½ Tbsp scoop size hasn't been temperature-verified yet, check the first tray with a thermometer (200–205°F target) before assuming the timing for the rest of the batches.
 
 ---
 
