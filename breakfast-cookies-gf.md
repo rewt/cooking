@@ -112,12 +112,12 @@ Cover and chill **at least 60–90 minutes**. This is doing three jobs at once n
 
 > If short on time, 45–60 min in the freezer is the minimum acceptable substitute — don't go shorter with this dough.
 
-### 7) Bake (12–15 min, verify — see note)
+### 7) Bake (~15 min)
 - Oven: **380°F (193°C)**, rack in the middle.
 - Use a **cool/room-temp baking sheet**.
 - Space mounds 2–3" apart.
-- Bake **12–15 minutes** as a starting estimate — rotate the pan halfway. This is scaled down from the 15–18 min window that was confirmed at the 2 Tbsp/~46 g size (itself scaled from the wheat version's tested 16–19 min): a 1½ Tbsp/~35 g mound has less distance for heat to reach the center, so it should need less time, but this exact size hasn't been temperature-tested yet on the GF dough. Treat the range as a starting point until you've checked it once.
-- **Doneness check — use a thermometer, not just looks:** starting at the low end of the range, pull one cookie and probe the center. Target **195–200°F** (pull at the lower end of that vs. the wheat version's 200–205°F, since GF crumb dries out faster once fully set) — confirmed against an actual bite on the wheat version: at temp, the crumb should be soft, moist, and chewy but hold together, not smear or taste raw. A matte, no-jiggle surface is a useful secondary check, but the surface can look set before the center actually is — check with the thermometer before trusting looks alone, especially on this first run at the new size.
+- Bake **about 15 minutes**, rotating the pan halfway — confirmed at the 1½ Tbsp/~35 g mound size. Still start checking a couple minutes early (13 min) since oven variance matters more here than elsewhere in this recipe.
+- **Doneness check — use a thermometer, not just looks:** starting at 13 min, pull one cookie and probe the center. Target **195–200°F** (pull at the lower end of that vs. the wheat version's 200–205°F, since GF crumb dries out faster once fully set) — confirmed against an actual bite: at temp, the crumb should be soft, moist, and chewy but hold together, not smear or taste raw. A matte, no-jiggle surface is a useful secondary check, but the surface can look set before the center actually is — check with the thermometer before trusting looks alone.
 
 ### 8) Cool on the sheet (10 min)
 Let them sit on the hot sheet for **10 minutes**, then transfer to a rack.
@@ -150,4 +150,4 @@ Multiply everything by **2.75×** for **~48 cookies** at the 1½ Tbsp/~35 g scoo
 - 1 Tbsp + 2½ tsp vanilla extract
 - 352 g mini M&M's
 
-Same method, same (or longer) 60–90 min chill — bake in batches so the dough balls stay cold going in. Since the 1½ Tbsp scoop size hasn't been temperature-verified yet on this recipe, check the first tray with a thermometer (195–200°F target) before assuming the timing for the rest of the batches.
+Same method, same (or longer) 60–90 min chill — bake in batches so the dough balls stay cold going in, checking each tray with a thermometer (195–200°F target) since oven hot-spots and batch-to-batch temp recovery can shift the ~15 min baseline.
