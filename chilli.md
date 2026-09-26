@@ -104,16 +104,16 @@
 ## Method (purée → aromatics → meats → combine → simmer partially covered → finish)
 
 ### A) Make the chile purée (BLENDER)
-1. **Soak dried chiles** (ancho, New Mexico, pasilla, meco, and árbol) in hot stock or hot water until pliable.
+1. **Soak dried chiles** (ancho (3), New Mexico (2), pasilla (1), meco (1), and árbol (4)) in hot stock or hot water until pliable.
 2. **Strain & reserve soaking liquid; keep ¾ cup total**:
    - ½ cup for purée
    - ¼ cup for deglaze
 3. Into blender now:
-   - All soaked chiles (ancho, New Mexico, pasilla, meco, **plus 3 árbol**)
+   - All soaked chiles (ancho (3), New Mexico (2), pasilla (1), meco (1), **plus 3 árbol**)
    - *(Hold back 1–3 árbol for the finish.)*
 4. Add:
    - ½ cup strained soak liquid
-   - Sun-dried tomatoes
+   - Sun-dried tomatoes (small can)
    - 1–2 tsp white vinegar
    - ½–1 tsp sugar
    - (Optional) 1 tsp tomato paste
@@ -126,8 +126,8 @@
 
 ### B) Sauté aromatics (MAIN POT)
 1. Pot on medium-high; add **1.5 Tbsp butter**.
-2. Add onion, jalapeño, serranos, bell pepper, celery; sauté **5–7 min** to translucent edges.
-3. Add garlic halfway; cook **30–60 sec** until fragrant.
+2. Add onion (1 large / ~2 cups), jalapeño (1 / ~¼ cup), serranos (3 / ~3 Tbsp), bell pepper (1½ / ~2 cups), celery (2 stalks / ~¾ cup); sauté **5–7 min** to translucent edges.
+3. Add garlic (4–5 cloves / ~1½–2 Tbsp) halfway; cook **30–60 sec** until fragrant.
 4. Transfer aromatics to bowl.
 5. Leave **1–2 Tbsp fat** in pot; keep heat on.
 
@@ -154,7 +154,7 @@
 3. Return meats + aromatics (and juices).
 4. Stir in:
    - Chile purée
-   - Crushed tomatoes
+   - Crushed tomatoes (≈21 oz)
    - Worcestershire (**1.5 Tbsp**)
    - Apple cider vinegar (**1 Tbsp**)
 
@@ -178,7 +178,7 @@ If too thick, add a splash of stock/soak.
 - Reducing too fast? Cover a bit more and lower heat; add a splash of stock.
 
 **Beans**
-- Stir in black beans during the last **30–45 min**.
+- Stir in black beans (15 oz) during the last **30–45 min**.
 
 **Bright-heat finish (last 10–15 min)**
 1. Crumble reserved árbol (**1–3 pods**) into pot.

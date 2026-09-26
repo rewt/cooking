@@ -91,19 +91,19 @@ The wheat v2 fix removed two lift sources (baking powder, creamed butter) and ad
 ## Method
 
 ### 1) Dry mix (2 min)
-Whisk GF blend, psyllium husk powder, cornstarch, baking soda, salt (and xanthan gum, if using) together. Set aside.
+Whisk GF blend (160 g), psyllium husk powder (1 tsp), cornstarch (¾ tsp), baking soda (⅛ tsp), salt (⅜ tsp), and xanthan gum (½ tsp, only if using) together. Set aside.
 
 ### 2) Cut cold butter into the sugars (1–2 min)
-Add the cold cubed butter, brown sugar, and cane sugar to the mixer bowl. Mix on **low** just until the butter breaks down into pea-sized (or smaller) bits coated in sugar — the mixture should look **sandy/crumbly, not light or fluffy**. If it starts looking smooth and pale, stop immediately — that's the creaming action that made v1 cakey.
+Add the cold cubed butter (135 g), brown sugar (105 g), and cane sugar (20 g) to the mixer bowl. Mix on **low** just until the butter breaks down into pea-sized (or smaller) bits coated in sugar — the mixture should look **sandy/crumbly, not light or fluffy**. If it starts looking smooth and pale, stop immediately — that's the creaming action that made v1 cakey.
 
 ### 3) Egg + yolk + vanilla (20–30 sec)
-Add the cold egg, egg yolk, and vanilla. Mix on **low** just until the dough starts to come together into a shaggy mass.
+Add the cold egg (1 large, about 50 g), egg yolk (1, about 18 g), and vanilla (2 tsp). Mix on **low** just until the dough starts to come together into a shaggy mass.
 
 ### 4) Add dry mix (20–30 sec)
 Add the dry mix in one go. Mix on **low** just until no dry streaks remain and the dough looks cohesive but shaggy — not smooth. GF dough will look slightly softer/tackier than wheat dough at this stage; that's expected, not a sign to add more flour.
 
 ### 5) Fold in M&M's (30 sec)
-Fold in the M&M's by hand — mixed into the dough, not pressed on after.
+Fold in the M&M's (128 g mini / 120 g regular, chopped) by hand — mixed into the dough, not pressed on after.
 
 ### 6) Scoop, then chill (60–90 min minimum, up to 24 hr)
 Scoop into ~35 g mounds (a 1½ Tbsp / #40 scoop gets you close) onto parchment — about 18 tall mounds total. **Do not flatten them.** Sizing down from the original 3 Tbsp scoop is intentional — a smaller mound has less distance for heat to travel to the center, which helps it finish baking through without needing as long in the oven.

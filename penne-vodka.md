@@ -66,7 +66,7 @@ Start it **right after you prep the shallot/garlic and grate cheese**, before yo
    - ¾ cup parm + 2 Tbsp pecorino (keep together or separate)
 2. **Shallot:** knife-mince 1 shallot (small pieces).
 3. **Garlic:** microplane 2–3 cloves into a small bowl.
-4. **Chicken:** pat dry. If thick, **butterfly/slice horizontally** into thinner cutlets (~½" thick).
+4. **Chicken (1–1.25 lb):** pat dry. If thick, **butterfly/slice horizontally** into thinner cutlets (~½" thick).
 5. Season chicken with:
    - Salt + pepper (lightly; you can adjust at the end)
 
@@ -75,7 +75,7 @@ Start it **right after you prep the shallot/garlic and grate cheese**, before yo
 ---
 
 ### 2) Start pasta water (now)
-- Put **4 quarts / 16 cups** water + salt in the stock pot.
+- Put **4 quarts / 16 cups** water + salt (**2 Tbsp kosher salt**, or 1 Tbsp table salt) in the stock pot.
 - Lid on, **high heat**.
 
 ---
@@ -83,7 +83,7 @@ Start it **right after you prep the shallot/garlic and grate cheese**, before yo
 ### 3) Sear chicken in cast iron skillet (10–12 minutes)
 1. Heat skillet over **medium-high** for ~2 minutes.
 2. Add **2 Tbsp olive oil**.
-3. Add chicken cutlets (don’t overcrowd; do batches if needed).
+3. Add chicken cutlets (1–1.25 lb) (don’t overcrowd; do batches if needed).
 4. Sear:
    - **4–5 min** first side (don’t move it)
    - Flip, **3–5 min** second side until cooked through
@@ -94,9 +94,9 @@ Start it **right after you prep the shallot/garlic and grate cheese**, before yo
 ### 4) Build sauce in the enameled dutch oven (8–10 minutes)
 1. Put dutch oven on **medium** heat.
 2. Add **2 Tbsp butter**.
-3. Add minced shallot + pinch of salt.
+3. Add minced shallot (1) + pinch of salt.
    - Cook **2 minutes**, stirring, until softened (not browned).
-4. Add microplaned garlic.
+4. Add microplaned garlic (2–3 cloves).
    - Cook **30 seconds**, stirring constantly (garlic paste burns fast).
 5. Add **24 oz jar sauce**.
 6. Add **½ cup heavy cream** and stir.

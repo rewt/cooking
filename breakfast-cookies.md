@@ -87,19 +87,19 @@ v1 was cakey because two things were pumping air/lift into the dough: baking pow
 ## Method
 
 ### 1) Dry mix (2 min)
-Whisk AP flour, bread flour, cornstarch, baking soda, and salt together in a bowl. Set aside.
+Whisk AP flour (115 g), bread flour (55 g), cornstarch (1 tsp), baking soda (⅛ tsp), and salt (⅜ tsp) together in a bowl. Set aside.
 
 ### 2) Cut cold butter into the sugars (1–2 min)
-Add the cold cubed butter, brown sugar, and cane sugar to the mixer bowl. Mix on **low** just until the butter breaks down into pea-sized (or smaller) bits coated in sugar. The mixture should look **sandy/crumbly, not light or fluffy** — if it looks smooth and pale like whipped frosting, you've gone too far and started creaming; that's the exact thing that made v1 cakey. Stop as soon as you no longer see large butter chunks.
+Add the cold cubed butter (120 g), brown sugar (105 g), and cane sugar (20 g) to the mixer bowl. Mix on **low** just until the butter breaks down into pea-sized (or smaller) bits coated in sugar. The mixture should look **sandy/crumbly, not light or fluffy** — if it looks smooth and pale like whipped frosting, you've gone too far and started creaming; that's the exact thing that made v1 cakey. Stop as soon as you no longer see large butter chunks.
 
 ### 3) Egg + vanilla (20–30 sec)
-Add the cold egg and vanilla. Mix on **low** just until the dough starts to come together into a shaggy mass. Some visible small butter flecks are fine — good, even.
+Add the cold egg (1 large, about 50 g) and vanilla (1½ tsp). Mix on **low** just until the dough starts to come together into a shaggy mass. Some visible small butter flecks are fine — good, even.
 
 ### 4) Add dry mix (20–30 sec)
 Add the dry mix in one go. Mix on **low** just until no dry streaks remain. The dough should look shaggy and chunky, not smooth. Overmixing here still builds gluten past what you want and can turn the texture tough instead of chewy.
 
 ### 5) Fold in M&M's (30 sec)
-Fold in all the mini M&M's by hand with a spatula.
+Fold in all the M&M's (128 g mini / 120 g regular, chopped) by hand with a spatula.
 
 ### 6) Scoop, then chill (45–60 min minimum, up to 24 hr)
 Scoop into ~35 g mounds (a 1½ Tbsp / #40 scoop gets you close) onto parchment — about 17 tall mounds total. **Do not flatten them.** Sizing down from the original 3 Tbsp scoop is intentional — a smaller mound has less distance for heat to travel to the center, which helps it finish baking through without needing as long in the oven.

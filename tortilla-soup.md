@@ -53,7 +53,7 @@ A lighter, cozy take on the news clipping: **baked tortilla strips**, **low-sodi
 
 ### 1) Bake tortilla strips (start first)
 1. Heat oven to **400°F (205°C)**.
-2. Stack tortillas and slice into thin strips.
+2. Stack tortillas (8) and slice into thin strips.
 3. Toss strips with **1 Tbsp oil** + pinch of salt (and optional spices).
 4. Spread on a sheet pan in a single layer.
 5. Bake **8–12 minutes**, tossing once halfway, until crisp and golden.
@@ -64,7 +64,7 @@ A lighter, cozy take on the news clipping: **baked tortilla strips**, **low-sodi
 
 ### 2) Cook the chicken
 1. In a large pot/Dutch oven, heat **1 Tbsp oil** over **medium-high**.
-2. Cut chicken into bite-size cubes. Season with salt + pepper.
+2. Cut chicken (1 lb) into bite-size cubes. Season with salt + pepper.
 3. Sauté **4–6 minutes**, stirring occasionally, until mostly cooked and lightly browned.
 
 > Safety: chicken must reach **165°F** in the thickest piece.
@@ -72,18 +72,18 @@ A lighter, cozy take on the news clipping: **baked tortilla strips**, **low-sodi
 ---
 
 ### 3) Sauté onions + garlic, then simmer potatoes
-1. Add chopped onion to the pot with the chicken.
+1. Add chopped onion (1 large / about 2 cups) to the pot with the chicken.
 2. Cook **4–5 minutes** until softened.
-3. Add **minced garlic** and cook **30–60 seconds** until fragrant (don’t brown it).
-4. Add diced potatoes + broth.
+3. Add **minced garlic** (3 cloves) and cook **30–60 seconds** until fragrant (don’t brown it).
+4. Add diced potatoes (3 medium / about 4–5 cups) + broth (6 cups, or 4 cups broth + 2 cups water).
 5. Bring to a boil, then reduce to a gentle simmer **10–12 minutes**, until potatoes are tender.
 
 ---
 
 ### 4) Finish the soup
-1. Add corn + green chiles + cumin + oregano (+ smoked paprika if using).
+1. Add corn (1 cup) + green chiles (4 oz can) + cumin (1 tsp) + oregano (1/2 tsp) (+ smoked paprika (1/2 tsp) if using).
 2. Simmer **5–8 minutes**.
-3. Stir in cilantro (or parsley).
+3. Stir in cilantro (1/3 cup) (or parsley).
 4. Taste and adjust salt/pepper.
 5. Finish with lime juice (start with 1/2 lime, add more to taste).
 

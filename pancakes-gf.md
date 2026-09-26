@@ -62,6 +62,22 @@ The base is King Arthur's own **Simply Perfect Pancakes**, their most popular pa
 - **Banana version:** mash the banana with a fork until **mostly smooth**. A few small lumps are fine, but large chunks create wet, gummy pockets. Measure it by weight.
 - **Heat the griddle during the batter rest** so both are ready at the same time.
 
+### If ingredients can't come to room temp
+Straight-from-the-fridge is fine. Use these quick fixes, or cook with everything cold and adjust.
+
+**Quick warm-ups (5–10 min total):**
+- **Eggs (2 large, about 100 g):** set the whole eggs in a bowl of warm tap water, hot to the touch but not scalding, for **5–10 minutes**. That's about as effective as an hour on the counter.
+- **Milk (283 g plain / 227 g banana):** microwave in **15-second bursts**, stirring between, until it's lukewarm (**about 100°F**, like warm bathwater). Don't go hot, because milk above about 120°F can start cooking the eggs when you beat them together. No microwave? Warm it in a small saucepan over low heat, or set the measured milk in a bowl of hot tap water for 5–10 min.
+- **Warmed milk also rescues cold eggs.** Beating cold eggs into lukewarm milk brings the whole mix close to room temp. If you only have time to fix one thing, warm the milk.
+- **Banana (115 g mashed):** a refrigerated banana works as-is. A **frozen** banana: thaw it (in the microwave in 20-second bursts, or in a sealed bag in warm water), then mash it **with all its released liquid** and weigh it. That liquid is part of the banana's moisture, so don't drain it.
+
+**Cooking with everything cold (no time to warm anything):**
+- **Swap the butter for neutral oil (43 g / 3 Tbsp).** Oil stays liquid when it hits cold milk, so nothing seizes into flecks. If you use butter anyway and it flecks, that's cosmetic. The flecks melt on the griddle.
+- **Beat the eggs and milk 1 minute longer (about 4 min total).** Cold eggs foam more slowly.
+- **Extend the rest to 20–25 min.** Cold batter hydrates more slowly. It will also warm up a bit on the counter during that time.
+- **Expect thicker batter.** Loosen it with milk (1 Tbsp at a time) only after the full rest.
+- **Drop the griddle about 15°F** (360°F plain / 335°F banana) and allow about 30 sec longer on the first side. Cold batter takes longer for heat to reach the center, so this is the fix for a gummy middle. Probe the first pancake for **200–205°F**.
+
 ---
 
 ## Ingredients — Base Batch (~10 four-inch pancakes, serves 3–4)
@@ -88,13 +104,13 @@ The base is King Arthur's own **Simply Perfect Pancakes**, their most popular pa
 ## Method
 
 ### 1) Dry mix (1 min)
-Whisk the Measure for Measure, baking powder, salt, and sugar together, plus the baking soda and cinnamon if you're making the banana version. Set aside.
+Whisk the Measure for Measure (180 g), baking powder (2 tsp), salt (¾ tsp), and sugar (25 g plain / 12 g banana) together. For the banana version, also add the baking soda (¼ tsp) and cinnamon (½ tsp, optional). Set aside.
 
 ### 2) Foam the eggs (3 min)
-Beat the eggs and lukewarm milk together for about **3 minutes**, until foamy and light. A hand mixer on medium makes this easy. This is your main lift source, so don't skip it.
+Beat the eggs (2 large, about 100 g) and lukewarm milk (283 g plain / 227 g banana) together for about **3 minutes**, until foamy and light. A hand mixer on medium makes this easy. This is your main lift source, so don't skip it.
 
 ### 3) Finish the wet (30 sec)
-Whisk in the melted butter and vanilla, and the mashed banana if using. Stir it in gently so you don't knock out all the foam.
+Whisk in the melted butter (43 g) and vanilla (1 tsp), plus the mashed banana (115 g) if using. Stir it in gently so you don't knock out all the foam.
 
 ### 4) Combine (20–30 sec)
 Pour the wet into the dry and **fold gently** just until no dry flour remains. A few small lumps are fine. Gluten-free batter can't get "tough" from overmixing the way wheat batter can, but heavy mixing deflates the egg foam from step 2.
@@ -105,12 +121,61 @@ Leave the batter at room temp for **15 minutes** while the griddle heats. It wil
 ### 6) Cook
 - Griddle at **375°F plain / 350°F banana**, or medium (plain) / medium-low (banana) on a stovetop. **Test it first:** a drop of water should skitter and evaporate immediately. Then cook **one small test pancake** and adjust the heat before committing the whole batch.
 - Lightly butter or oil the surface. Wipe it between batches so browned butter doesn't scorch.
-- Pour **¼ cup** per pancake. **Don't spread it or press it down.**
+- Pour **¼ cup** per pancake. **Don't spread it or press it down.** If you're using the sliced-banana option, lay the slices (4–5 per pancake, ⅛" thick) on the wet top right after pouring.
 - **Flip once**, when bubbles cover the surface, the edges look dry and matte, and the underside is golden. That's about **2 min plain, 3–4 min banana**. Cook the second side **1½–2 min**.
 - **Doneness check:** GF pancakes can look done outside while the center stays gummy, especially the banana version. Probe the center of the first pancake: **200–205°F** means it's set. Or tear it open: the crumb should be fluffy and springy, not wet or glossy.
 
 ### 7) Hold warm
 Keep finished pancakes in a single layer on a rack in a **200°F oven**. Stacking them traps steam, which turns GF pancakes gummy fast.
+
+---
+
+## Banana Half-Batch Test (~5 four-inch pancakes)
+
+A half batch of the **mashed-in banana** version, for dialing in griddle heat and flip timing before you commit to a full batch. Every amount is exactly half the full banana batter. Egg count stays whole: 1 large egg is half of 2.
+
+### Ingredients
+- 90 g King Arthur GF Measure for Measure (~¾ cup)
+- 1 tsp baking powder
+- ⅛ tsp baking soda
+- ⅜ tsp fine sea salt (a heaping ¼ tsp)
+- 6 g cane sugar (1½ tsp)
+- ¼ tsp cinnamon (optional)
+- 1 large egg (about 50 g), room temp
+- 113 g milk (½ cup minus 1 tsp, call it ½ cup), lukewarm (~100°F)
+- 58 g very ripe banana, mashed (~¼ cup, about half a large banana)
+- 21 g melted butter or neutral oil (1½ Tbsp), cooled slightly
+- ½ tsp vanilla extract
+
+> Cold ingredients? Use the warm-ups and cold-batter adjustments in [If ingredients can't come to room temp](#if-ingredients-cant-come-to-room-temp) at half quantities: oil (21 g / 1½ Tbsp) instead of butter, the same 20–25 min rest, and the same 15°F lower griddle (335°F). The warm-water trick for the egg takes the same 5–10 min.
+
+> Leftover half banana: slice it ⅛" thick and use it for the sliced-on-top option on a couple of the test pancakes, so you can taste both styles in one batch.
+
+### Method
+
+#### 1) Dry mix (1 min)
+Whisk the Measure for Measure (90 g), baking powder (1 tsp), baking soda (⅛ tsp), salt (⅜ tsp), sugar (6 g / 1½ tsp), and cinnamon (¼ tsp, optional) together. Set aside.
+
+#### 2) Foam the egg (2–3 min)
+Beat the egg (1 large, about 50 g) and lukewarm milk (113 g) for **2–3 minutes** until foamy. Use a tall, narrow container, like a 4-cup measuring cup. With only one egg, a wide bowl leaves too little depth for the beaters to whip air in.
+
+#### 3) Finish the wet (30 sec)
+Gently whisk in the melted butter (21 g / 1½ Tbsp), vanilla (½ tsp), and mashed banana (58 g).
+
+#### 4) Combine (20 sec)
+Pour the wet into the dry and **fold gently** just until no dry flour remains. Small lumps are fine.
+
+#### 5) Rest (15 min, not optional)
+Leave the batter at room temp for **15 minutes** while the griddle heats. The rest time doesn't shrink with the batch size, because hydration speed doesn't depend on volume. If the batter is too thick to spread slowly on its own after the rest, stir in milk (1 tsp at a time, half the full-batch step).
+
+#### 6) Cook
+- Griddle at **350°F**, or medium-low on a stovetop. Do the water-drop test first.
+- Lightly grease the surface (about ½ tsp butter or oil).
+- Pour **one test pancake (¼ cup)** first. Flip when the surface is covered in bubbles and the edges look matte (**3–4 min**), then cook the second side (**1½–2 min**). Probe the center: **200–205°F**.
+- Adjust the heat based on that one pancake, then cook the rest (**¼ cup each**, about 4 more). For the sliced-banana test, lay 4–5 slices (⅛" thick) on the wet top right after pouring.
+
+#### 7) Record results
+Write down what worked in *your* setup (griddle temp, first-side time, internal temp, batter thickness after the rest, and any milk you added) and carry those numbers into the full batch.
 
 ---
 
