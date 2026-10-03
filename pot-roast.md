@@ -30,6 +30,7 @@ Classic one-pot Midwest pot roast: a seared 2 lb chuck roast braised low and slo
 - Worcestershire sauce
 - Bay leaves
 - All-purpose flour (for the gravy)
+- Balsamic vinegar or red wine vinegar (optional, for a little acidity in the gravy)
 
 ---
 
@@ -73,6 +74,7 @@ Classic one-pot Midwest pot roast: a seared 2 lb chuck roast braised low and slo
 - 2 Tbsp all-purpose flour
 - ¼ cup cold water
 - Salt & pepper to taste
+- 1 tsp balsamic vinegar or red wine vinegar (optional)
 
 ### Finish
 - Chopped fresh parsley (optional)
@@ -126,6 +128,8 @@ Tilt the pot and spoon off most of the fat floating on top (leave a tablespoon o
 
 In a small jar, shake or whisk the flour (2 Tbsp) with the cold water (¼ cup) until no lumps remain. Bring the liquid in the pot to a simmer over **medium** heat and whisk in the slurry. Simmer 3–5 minutes, whisking, until it thickens enough to coat a spoon and no longer tastes floury. Taste and season with salt and pepper.
 
+**Optional acid kick:** If the gravy tastes rich but flat, stir in the balsamic vinegar or red wine vinegar (1 tsp) off the heat. Taste, and add a few more drops if you want more. It adds the same brightness red wine would, without opening a bottle.
+
 ### 10) Serve
 Slice the roast against the grain into thick slices, or just pull it into big chunks with two forks. Arrange with the vegetables, pour gravy over everything, and sprinkle with parsley if using. Pass extra gravy at the table.
 
@@ -147,5 +151,5 @@ Slice the roast against the grain into thick slices, or just pull it into big ch
 
 - **Mashed potatoes instead:** Leave the potatoes out of the pot (add an extra ½ lb carrots instead). Boil 2 lb peeled Yukon Golds in salted water 15–20 min until tender, drain, and mash with 4 Tbsp butter, ½ cup warm milk, and salt. Serve the roast and gravy over the top.
 - **Onion soup mix (old-school Midwest):** Swap the 1½ tsp salt on the roast for 1 packet (1 oz) dry onion soup mix stirred into the broth. Skip the salt on the vegetables too — the mix is salty.
-- **Red wine:** Replace ½ cup of the beef broth with dry red wine in step 4 for a deeper, richer gravy.
+- **Red wine (not traditional Midwest):** Replace ½ cup of the beef broth with dry red wine in step 4 for a deeper, richer gravy. To skip the wine but still get its acidity, use the optional balsamic vinegar or red wine vinegar (1 tsp) in the gravy (step 9) instead.
 - **Leftovers:** Shred the leftover beef with gravy for hot beef sandwiches on white bread with mashed potatoes — a Midwest diner classic.
